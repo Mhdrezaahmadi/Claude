@@ -4,57 +4,9 @@ In this respository I will write down everything cool that I will do with claude
 ## Job Hunting 
 The original Idea comes from this guy [Link](https://mavgpt.ai/resources/claude-resume-job-search-guide?mcp_token=eyJwaWQiOjI5OTM1MzIsInNpZCI6NDMxMzI3OTAyLCJheCI6IjRlNDY0NDkwM2ZjOGUzNzQ0Y2QyZTdjNDIxMTIyZjBjIiwidHMiOjE3Nzk3MTAzOTcsImV4cCI6MTc4MjEyOTU5N30.RyclpwUMo3ghj-CWmBpZVaYsW8_jOcEANsFHelLj2J0&fbclid=PAT01DUASBGRBleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafqWjgpzOt9mITWMsoRTPRhnxCDXeuNHC8mSyzyTXaaDxoUrW-V2koz3oeCiQ_aem_IYiHEYHzkg6GZ_xR6whu0w)
 
-### Step 1: The Resume Audit 
-####Prompt
-(Act as a senior recruiter for this exact company.
-Analyze my resume against this job description.
 
-Give me:
 
-1. A match score out of 100
-2. The top 5 missing keywords that the ATS will be scanning for
-3. The 3 red flags a hiring manager would spot in under 10 seconds
-4. Which sections are strong and why
-5. Which sections are weak and why
-6. How my resume compares to what a strong candidate for this role would look like
-
-Be brutally honest. I would rather fix problems now than get ghosted later.)
-
-### Step 2: The Experience Rewrite 
-
-Rewrite my experience section using these rules:
-
-1. Naturally include the missing keywords you identified, but do NOT force them in. They should feel like a normal part of each bullet.
-
-2. Remove or fix every red flag you flagged.
-
-3. Use the Google XYZ formula for every bullet: "Accomplished [X] as measured by [Y] by doing [Z]"
-
-4. Start every bullet with a strong action verb. Never use "Responsible for" or "Helped with".
-
-5. Add specific numbers wherever possible. If I did not provide numbers, suggest realistic placeholders I can fill in later and mark them with [FILL IN].
-
-6. Keep each bullet to 1-2 lines max. Hiring managers skim. Dense paragraphs get skipped.
-
-7. Order bullets by impact, not chronology. The most impressive result goes first.
-
-### Step 3: The ATS and Hiring Manager Test
-Now act as two different people:
-
-FIRST: Act as an ATS filter. Scan my new resume and tell me:
-- Would it pass the ATS for this job? (Yes/No)
-- Which keywords are now present and which are still missing?
-- Any formatting issues that would confuse an ATS parser? (tables, columns, headers, special characters, images)
-
-SECOND: Act as a hiring manager who is reading 200 resumes in one sitting. Scan my resume and tell me:
-- Which sections would you skip? Why?
-- What makes you stop scrolling (good or bad)?
-- Would you put this in the "yes" pile, "maybe" pile, or "no" pile for this role?
-- Rewrite any sections that would get skipped so they actually stop the scroll.
-
-Give me the final version of my resume after all fixes are applied.
-
-### Bonus: Auto-Apply with Cowork
+### Auto-Apply with Cowork
 Now that my resume is optimized, go to LinkedIn and do the following:
 
 1. Search for [JOB TITLE] roles in [LOCATION] posted in the last [7/14/30] days.
@@ -73,7 +25,7 @@ Now that my resume is optimized, go to LinkedIn and do the following:
 
 Pause before submitting each application and show me the customized version first.
 
-### Bonus: 30-Second Cover Letters
+### 30-Second Cover Letters
 Write me a cover letter for this job using my resume and the job description you already have.
 
 Rules:
@@ -86,7 +38,7 @@ Tone: Confident, direct, no fluff, no buzzwords.
 Length: Under 250 words.
 Do NOT sound like AI wrote it.
 
-### Bonus: LinkedIn Profile Optimizer
+### LinkedIn Profile Optimizer
 Rewrite my LinkedIn profile to attract recruiters for [TARGET ROLE] roles.
 
 1. HEADLINE
